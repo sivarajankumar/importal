@@ -1,0 +1,1 @@
+Information Management Portal Front-end using AngularJS
